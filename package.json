@@ -15,6 +15,6 @@
     "should": "~1.2.2",
     "mocha": "~1.13.0"
   },
-  "repository": "https://github.com/raymondfeng/loopback-connector-redis",
+  "repository": "https://github.com/111studio/loopback-connector-redis/",
   "license": "MIT"
 }
